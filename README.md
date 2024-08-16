@@ -1,4 +1,4 @@
-# Cypress-Sample-Project
-A sample Cypress Project via Simplilearn Test Automation Framework
+# Cypress-Basics
+A sample repo on the basics of Cypress 
 
 Used Page Object Model design concepts
